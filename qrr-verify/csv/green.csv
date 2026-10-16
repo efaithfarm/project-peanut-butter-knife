@@ -1,0 +1,21 @@
+ProtectedMachine,ProtectionCore,ReplicationCore,NightlyVDN,HourlyVDN,VerifySchedule
+J1S78Z1,SRVRDC21,SRVRDB09,C:\,,3
+SRVR18DC,SRVRDC21,SRVRDB09,C:\,,3
+SRVRDC26,SRVRDC21,SRVRDB09,(Volume Labeled 'System Reserved');C:\;D:\,,3
+SRVRDC35,SRVRDC21,SRVRDB09,C:\;D:\;EFI System Partition 1 on disk 0,,3
+SRVRDC50,SRVRDC21,SRVRDB09,C:\;D:\,,3
+SRVRDC54,SRVRDC21,SRVRDB09,C:\;D:\;EFI System Partition 1 on disk 0,,3
+SRVRDC56,SRVRDC21,SRVRDB09,C:\;D:\;EFI System Partition 1 on disk 0,,3
+SRVRDC62,SRVRDC21,SRVRDB09,,C:\;D:\;EFI System Partition 1 on disk 0,1
+SRVRDC66,SRVRDC21,SRVRDB09,C:\;D:\;EFI System Partition 1 on disk 0,,3
+SRVRDC67,SRVRDC21,SRVRDB09,C:\;D:\;EFI System Partition 1 on disk 0,,3
+SRVRDC77,SRVRDC21,SRVRDB09,C:\;D:\;EFI System Partition 1 on disk 0,,3
+SRVRINET02,SRVRDC21,SRVRDB09,C:\;D:\;EFI System Partition 1 on disk 0,,1
+SRVRLXD11,SRVRDC21,SRVRDB09,(Volume Labeled 'System Reserved');C:\;D:\,,3
+SRVRCORP08,SRVRCORP05,SRVRDC21,C:\;EFI System Partition 1 on disk 0,D:\,1
+SRVRKBC04,SRVRKBC02,SRVRDC21,Hard Disk 0\Volume 0;Hard Disk 0\Volume 1;\Hard Disk 0\Volume 2;Hard Disk 1\Volume 0 (Data),,3
+SRVRNH03,SRVRNH02,SRVRDC21,Hard Disk 0\Volume 0;Hard Disk 0\Volume 1;\Hard Disk 0\Volume 2,Hard Disk 1\Volume 0 (Data),1
+SRVRSASL03,SRVRSASL02,SRVRDC21,C:\;EFI System Partition 1 on disk 0,E:\,1
+SRVRSBMWG04,SRVRSBMWG02,SRVRDC21,Hard Disk 0\Volume 0;Hard Disk 0\Volume 1;Hard Disk 0\Volume 2;Hard Disk 1\Volume 0 (New Volume),,3
+SRVRSCC09,SRVRSCC06,SRVRDC21,(Volume Labeled 'System Reserved');C:\,,3
+SRVRSCH05,SRVRSCD02,SRVRDC21,Hard Disk 0\Volume 0;Hard Disk 0\Volume 1;Hard Disk 0\Volume 2;Hard Disk 1\Volume 0 (Data),Hard Disk 1\Volume 1 (Backed_Up),1
